@@ -1,8 +1,5 @@
 {
   "extends": [
     "config:base"
-  ],
-  "gradle": {
-    "fileMatch": ["^build-logic-dependencies/src/main/kotlin/dependencies/.*\\.kt"]
-  }
+  ]
 }
