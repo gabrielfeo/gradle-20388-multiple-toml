@@ -2,7 +2,7 @@ package dependencies
 
 dependencyResolutionManagement.versionCatalogs.named("libs") {
     // Versions
-    val junit5 = "5.7.1"
+    val junit5 = "5.11.3"
 
     // Libraries
     library("junit-api", "org.junit.jupiter:junit-jupiter-api:$junit5")
